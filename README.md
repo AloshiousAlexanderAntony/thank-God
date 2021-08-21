@@ -6,5 +6,5 @@ my first repository
 - 👀 I’m interested in python
 - 🌱 I’m currently learning it
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me aloshiousalexanderantony@gmail.com
+- 📫 you can reach me: aloshiousalexanderantony@gmail.com
 - 👍thank you.
